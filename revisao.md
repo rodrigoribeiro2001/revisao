@@ -9,3 +9,7 @@ repositório é a pasta do projeto.
 3 - O que é branch?
 
 e uma ramificação do projeto, servem para nao danificar o arquivo principal.
+
+4 - O que é merge?
+
+merge e a união de duas branches 
