@@ -13,3 +13,7 @@ e uma ramificação do projeto, servem para nao danificar o arquivo principal.
 4 - O que é merge?
 
 merge e a união de duas branches 
+
+5 - O que é clone?
+
+é clonar um repositório do github online para a marquina local. 
