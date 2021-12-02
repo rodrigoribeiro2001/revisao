@@ -21,3 +21,8 @@ merge e a união de duas branches
 6 - O que é pull?
 
 e fazer uma atualização do arquivo online para a marquina local.
+
+7 - O que é push?
+
+é enviar o arquivo da marquina local para o repositório online.
+
