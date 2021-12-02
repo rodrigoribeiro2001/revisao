@@ -26,3 +26,17 @@ e fazer uma atualização do arquivo online para a marquina local.
 
 é enviar o arquivo da marquina local para o repositório online.
 
+8 - O que é fork?
+
+É como um clone so que ele nao baixa para marquina.
+
+9 - O que é pull request?
+e uma solicitação que se faz para o dono do projeto principal, para atualizar o arquivos na main
+
+10 - O que é VCS?
+software de controle de versão. 
+
+11 - Quais as vantagens de utilizar o VCS?
+
+segurança, organização, ramificação. 
+
