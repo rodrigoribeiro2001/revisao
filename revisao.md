@@ -17,3 +17,7 @@ merge e a união de duas branches
 5 - O que é clone?
 
 é clonar um repositório do github online para a marquina local. 
+
+6 - O que é pull?
+
+e fazer uma atualização do arquivo online para a marquina local.
